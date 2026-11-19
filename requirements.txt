@@ -1,2 +1,8 @@
-django
+Django==4.2.30
 channels==3.0.5
+daphne==3.0.2
+gunicorn
+whitenoise
+channels-redis
+dj-database-url
+psycopg2-binary
